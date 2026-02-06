@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "泣きがら (Sped Up)",
+  "base_artist": "アルヒノータ",
+  "createdAt": "2026-02-06T07:49:22.209135Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "泣きがら",
+      "artist": "アルヒノータ",
+      "has_synced": false,
+      "path": "select/pl_01_泣きがら_アルヒノータ.txt"
+    }
+  ]
+}
